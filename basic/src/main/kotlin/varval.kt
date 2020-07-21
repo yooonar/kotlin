@@ -19,7 +19,7 @@ fun main() {
     // a 변수에 값을 넣지 않을 경우 오류 발생
     // Error: Variable 'a' must be initialized
 
-    // 옵셔널 Int 타입. 자료형 뒤에 물음표를 붙이면 null 을 허용하는 nullable 변수로 선언해줄 수 있
+    // 옵셔널 Int 타입. 자료형 뒤에 물음표를 붙이면 null 을 허용하는 nullable 변수로 선언해줄 수 있다.
     var b: Int? = null
 
     /*
